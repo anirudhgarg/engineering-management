@@ -1,4 +1,4 @@
-# engineering-management
+# Engineering Management
 
 Links to useful content for engineering management
 
@@ -6,10 +6,13 @@ Links to useful content for engineering management
 
 - [Strategy](#Strategy)
 - [Hiring](#Hiring)
+- [Communication](#Communication)
 
 ## Strategy
 
 ## Hiring
+
+## Communication
 
 
 
