@@ -10,7 +10,10 @@ Links to useful content for engineering management
 - [Courses and Workshops](#courses-and-workshops)
 - [Templates](#templates)
 - [Supporting Material](#supporting-material)
-- [Open Engineering Strategies](#open-engineering-strategies)
 - [Communities](#communities)
 
-##Books
+##books
+- Good Strategy, Bad Strategy by Richard Rumelt
+##posts
+
+
